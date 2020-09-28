@@ -22,7 +22,7 @@ function crazy() {
 
 function sayMyName(name) {
   // fix the code in here:
-  name = "Kristin";
+  name = "Cricky";
 
   sayMy();
 
@@ -30,4 +30,5 @@ function sayMyName(name) {
     console.log(name);
     var name = "Kristin";
   }
+  sayMy();
 }
