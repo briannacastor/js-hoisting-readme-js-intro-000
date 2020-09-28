@@ -19,7 +19,6 @@ function crazy() {
   }
   thisIsCrazy();
 }
-crazy()
 
 function sayMyName() {
   // fix the code in here:
